@@ -6,7 +6,6 @@ This project is a basic Python network automation tool that reads network device
 
 ## Project Structure
 
-```text
 automation_project/
 ├── inventory.json
 ├── network_check.py
