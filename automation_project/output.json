@@ -1,0 +1,23 @@
+[
+    {
+        "hostname": "R1",
+        "management_ip": "192.168.1.10",
+        "device_type": "Router",
+        "location": "Manila",
+        "status": "DOWN"
+    },
+    {
+        "hostname": "R2",
+        "management_ip": "192.168.1.11",
+        "device_type": "Router",
+        "location": "Cebu",
+        "status": "DOWN"
+    },
+    {
+        "hostname": "SW1",
+        "management_ip": "192.168.1.20",
+        "device_type": "Switch",
+        "location": "Davao",
+        "status": "DOWN"
+    }
+]
